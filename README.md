@@ -28,6 +28,14 @@ git clone https://github.com/dh31223/Emotional-translation.git
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
+### 数据下载
+
+```bash
+打开
+https://tianchi.aliyun.com/dataset/198371?accounttraceid=b57695d9ba324bac918ca7a5c0e9cf8feflk
+下载数据
+```
+
 ### 创建Python虚拟环境
 
 ```bash
