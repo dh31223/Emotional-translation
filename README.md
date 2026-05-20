@@ -36,6 +36,8 @@ https://tianchi.aliyun.com/dataset/198371?accounttraceid=b57695d9ba324bac918ca7a
 下载数据
 ```
 
+如果想直接运行，请把数据以csv形式存储在data目录中。
+
 ### 创建Python虚拟环境
 
 ```bash
